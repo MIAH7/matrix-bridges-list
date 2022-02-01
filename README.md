@@ -1,6 +1,7 @@
 # matrix-bridges-list
 List of ru IT matrix chats with a bridge in telegram
 
+* [linuxb7](https://matrix.to/#/#linuxb7:matrix.org)
 * [Tiling Flood Mastery](https://matrix.to/#/#tiling-flood-mastery:matrix.org)
 * [Linux Flood](https://matrix.to/#/#grouplinuxflood:bugworm.me)
 * [Yggdrasil RU](https://matrix.to/#/#yggdrasilRu:matrix.org)
